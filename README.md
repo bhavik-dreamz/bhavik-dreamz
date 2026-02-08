@@ -101,7 +101,7 @@ I'm a seasoned technical leader with **12+ years of experience** in software dev
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavik-dreamz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bhavik-dreamz&theme=tokyonight&hide_border=true)
 
