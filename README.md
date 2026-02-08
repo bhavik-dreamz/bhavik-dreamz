@@ -1,27 +1,205 @@
-# 💫 About Me:
-Delivering Innovative Technical Solutions: Technical Project Manager at Dynamic Dreamz | Full stack Developer | PHP/ MySql  | WordPress | Woocommerce | Node | React | Next.js | Vue.js | Angular<br><br><br>Search<br><br><br>Home<br><br>My Network<br>Jobs<br>Messaging<br>25<br>Notifications<br><br><br>Me<br><br>For Business<br>Try Premium for ₹0<br><br><br>Bhavik Patel<br><br>Delivering Innovative Technical Solutions: Technical Project Manager at Dynamic Dreamz | Full stack Developer | PHP/ MySql  | WordPress | Woocommerce | Node | React | Next.js | Vue.js | Angular<br><br><br><br>Enhance profile<br><br>Add section<br><br>Open to<br><br><br><br>Bhavik Patel<br>He/Him<br><br>Delivering Innovative Technical Solutions: Technical Project Manager at Dynamic Dreamz | Full stack Developer | PHP/ MySql  | WordPress | Woocommerce | Node | React | Next.js | Vue.js | Angular<br><br>Surat, Gujarat, India<br><br>·<br><br>Contact info<br><br><br>Dynamic Dreamz<br><br><br>Indira Gandhi National Open University<br><br>500+ connections<br><br><br>Open to<br><br>Add section<br><br>Enhance profile<br><br>Open to work · Recruiters only<br><br>Full Stack Engineer roles<br><br>Show details<br><br>Share that you’re hiring and attract qualified candidates.<br><br>Get started<br><br><br>Showcase your services as a section on your profile so your business can be easily discovered.<br><br>Add services<br><br><br>Tell non-profits you are interested in getting involved with your time and skills<br><br>Get started<br><br><br><br>Suggested for you<br>Private to you<br><br><br>Is your current title at Dynamic Dreamz Team Lead /Software Development Project Manager?<br><br>It’s important to keep your profile current so people can find and connect with you<br><br><br>Confirm current position<br><br><br>Let’s complete your school info for Indira Gandhi National Open University<br><br>This will help you find classmates and alumni you may know.<br><br><br>Update education<br><br><br>See all<br><br>Analytics<br>Private to you<br><br>34 profile views<br><br>Discover who’s viewed your profile.<br><br>0 post impressions<br><br>Start a post to increase engagement.<br><br>Past 7 days<br><br>26 search appearances<br><br>See how often you appear in search results.<br><br>Show all<br>About<br><br>1)  Over 12 years of software development experience with expertise in various platforms, including PHP, WordPress, CakePhp, Core PHP, Node, jQuery, Angular JS, and React JS.<br><br>2) Proficient in managing projects throughout the development lifecycle with a focus on agile project execution.<br>3) Currently serving as a Team Lead/Software Development Project Manager at Dynamic Dreamz in Surat.<br><br>4) Skills in training new team members, minimizing resource and time losses, and coaching team members for efficient task completion.<br>5) Successful in leading project initiation and planning, building strong customer relationships, and ensuring optimal resource allocation.<br><br>6) Demonstrated ability in creating and maintaining comprehensive project documentation.<br><br>7) Proficient in risk management analysis to mitigate project risks.<br><br>8) Collaborates effectively with teams and stakeholders for flawless project execution.<br><br>9) Utilizes appropriate project management tools to measure project performance.<br><br>10) Previous experience as a Full Stack Developer/Team Lead at Dynamic Dreamz, overseeing code review, application development, and automated build and deployment pipelines.
+# Hi there, I'm Bhavik Patel 👋
 
+### Technical Project Manager | Full Stack Developer | Solution Architect
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavik-patel-6657b636) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Bhavik Patel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavikpate2010@gmail.com)
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhavik-dreamz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhavik-dreamz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavik-dreamz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhavik-dreamz&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhavik-dreamz&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+I'm a seasoned technical leader with **12+ years of experience** in software development and project management, currently leading innovative projects at **Dynamic Dreamz** in Surat, Gujarat, India.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bhavik-dreamz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🔭 **Current Role**: Team Lead / Software Development Project Manager at Dynamic Dreamz
+- 💼 **Experience**: 12+ years in full-stack development and technical project management
+- 🎯 **Focus**: Delivering scalable, innovative technical solutions using modern tech stacks
+- 🌱 **Expertise**: Agile methodologies, team leadership, and end-to-end project execution
+- 📫 **Reach me**: [bhavikpate2010@gmail.com](mailto:bhavikpate2010@gmail.com)
+- 📍 **Location**: Surat, Gujarat, India
+
+---
+
+## 💼 Professional Highlights
+
+✨ **Technical Leadership**
+- Leading cross-functional development teams and managing complete software development lifecycle
+- Successfully delivered 100+ projects across diverse domains and technologies
+- Expert in training and mentoring team members, minimizing resource losses
+
+✨ **Project Management**
+- Proficient in Agile methodologies and project execution frameworks
+- Strong focus on risk management analysis and mitigation strategies
+- Building strong customer relationships and ensuring optimal resource allocation
+
+✨ **Development Excellence**
+- Full-stack development expertise spanning frontend, backend, and database technologies
+- Implemented automated build and deployment pipelines (CI/CD)
+- Code review, quality assurance, and performance optimization
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+### **Backend Development**
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### **CMS & E-Commerce**
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavik-dreamz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bhavik-dreamz&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavik-dreamz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bhavik-dreamz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=bhavik-dreamz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+## 🎯 Career Journey
+
+### **Dynamic Dreamz** | Surat, Gujarat, India
+
+**Team Lead / Software Development Project Manager** *(October 2019 - Present)*
+- Leading project initiation, planning, and execution for multiple concurrent projects
+- Managing and mentoring development teams, ensuring optimal resource allocation
+- Implementing risk management strategies and maintaining comprehensive project documentation
+- Building strong customer relationships and ensuring flawless project delivery
+
+**Full Stack Developer / Team Lead** *(November 2016 - Present)*
+- Architecting and developing scalable web applications and databases
+- Implementing automated CI/CD pipelines for streamlined deployment
+- Code review, debugging, and maintaining high code quality standards
+- Designing innovative solutions and proofs of concept
+
+**Senior WordPress Developer** *(November 2014 - November 2016)*
+- Developed custom WordPress themes and plugins
+- Integrated PSD designs into responsive WordPress websites
+- Built e-commerce applications and custom web solutions
+
+### **Prism I.T. Systems** | Surat
+
+**Senior WordPress Developer** *(October 2011 - July 2014)*
+- Delivered commercial websites meeting coding standards and cross-browser compatibility
+- Created custom WordPress components, themes, and plugins
+- Collaborated with teams on project strategy and execution
+
+### **Unique Solution**
+
+**Junior PHP / WordPress Developer** *(June 2010 - November 2011)*
+- Developed WordPress plugins and wireframe mockups
+- Integrated third-party APIs and CRM systems
+- Frontend development and custom solutions
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavik-patel-6657b636)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavikpate2010@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/bhavik-dreamz)
+
+---
+
+## 📊 Profile Visitors
+
+<div align="center">
+  
+[![Visitor Count](https://visitcount.itsvg.in/api?id=bhavik-dreamz&icon=2&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 "Quality is not an act, it is a habit" - Aristotle
+
+**Thank you for visiting my profile! Feel free to reach out for collaborations or just a friendly chat.**
+
+</div>
+
+---
+
+*Last Updated: February 2026*
