@@ -105,21 +105,9 @@ I'm a seasoned technical leader with **12+ years of experience** in software dev
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bhavik-dreamz&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavik-dreamz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 </div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bhavik-dreamz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 💡 Random Dev Quote
 
@@ -179,18 +167,6 @@ I'm a seasoned technical leader with **12+ years of experience** in software dev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavik-patel-6657b636)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavikpate2010@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/bhavik-dreamz)
-
----
-
-## 📊 Profile Visitors
-
-<div align="center">
-  
-[![Visitor Count](https://visitcount.itsvg.in/api?id=bhavik-dreamz&icon=2&color=6)](https://visitcount.itsvg.in)
-
-</div>
-
----
 
 <div align="center">
 
