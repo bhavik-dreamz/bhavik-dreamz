@@ -105,7 +105,7 @@ I'm a seasoned technical leader with **12+ years of experience** in software dev
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bhavik-dreamz&theme=tokyonight&hide_border=true)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=bhavik-dreamz&color=green)
 
 </div>
 
